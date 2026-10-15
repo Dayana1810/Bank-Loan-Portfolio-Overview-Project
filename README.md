@@ -24,7 +24,13 @@ This dashboard focuses on identifying suspicious transactions and monitoring hig
 - <a href="https://github.com/Dayana1810/Bank-Loan-Portfolio-Overview-Project/blob/main/Bank%20Data%20Analystics.xlsx">Bank Loan</a>
 - <a href="https://github.com/Dayana1810/Bank-Loan-Portfolio-Overview-Project/blob/main/Debit%20and%20Credit%20banking_data.xlsx">Debit And Credit</a>
 
+## Overall Project Summary
 
+This banking analytics project consists of five interactive dashboards developed to analyze banking transactions, cash flow, suspicious activities, loan risks, customer demographics, and loan portfolio performance. The dashboards use KPIs, charts, graphs, and filters to transform banking data into meaningful business insights. They help monitor financial performance, identify potential risks, understand customer behavior, and support data-driven decision-making.
 
-
+## Tools and Technologies
+-Excel: Data cleaning, preparation, and initial analysis.
+-SQL / MySQL: Data extraction, filtering, and querying.
+-Power BI: Interactive dashboards, KPI cards, and data visualization.
+-Tableau: Interactive charts, visual analytics, and dashboard development.
 
