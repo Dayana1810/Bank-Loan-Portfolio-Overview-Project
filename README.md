@@ -21,7 +21,7 @@ This dashboard provides an overview of banking transactions, credit and debit am
 This dashboard focuses on identifying suspicious transactions and monitoring high-risk banking activities. It analyzes high-risk transaction counts, suspicious transaction frequency, high-risk amount share, branch growth rates, and transaction triggers. The dashboard helps identify risky transaction patterns, monitor monthly trends, and compare risk levels across branches.
 
 ## Data Set Used
-- <a href="
+- <a href="https://github.com/Dayana1810/Bank-Loan-Portfolio-Overview-Project/blob/main/Bank%20Data%20Analystics.xlsx
 
 
 
