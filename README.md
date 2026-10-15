@@ -38,15 +38,21 @@ This banking analytics project consists of five interactive dashboards developed
 
 The main objective is to analyze banking and loan data, monitor transaction performance, identify suspicious activities, assess loan risks, and understand customer borrowing patterns to support effective financial management and informed business decisions.
 
+## Tableaue Dashboard
+## Bank Loan Portfolio Overview 
+<img width="1900" height="1030" alt="Screenshot 2026-10-15 113716" src="https://github.com/user-attachments/assets/f23decc7-c8ef-4e0d-9759-d1e8faa7340f" />
 
+## Demographic Loan Portfolio Analysis
+<img width="1902" height="1031" alt="Screenshot 2026-10-15 113638" src="https://github.com/user-attachments/assets/bdd883f7-1fa0-4519-ae1d-7fcba80dba70" />
 
+## Loan Risks & Delinquency
+<img width="1901" height="1036" alt="Screenshot 2026-10-15 113650" src="https://github.com/user-attachments/assets/f4b9086d-2308-4845-81b9-61f341b8a4e7" />
 
+## Bank Transaction & Cash Flow
+<img width="1900" height="1030" alt="Screenshot 2026-10-15 113716" src="https://github.com/user-attachments/assets/8d611959-f3e7-4989-a714-d31847a3643c" />
 
-
-
-
-
-
+## Suspicious Transaction & Risk Monitoring
+<img width="1907" height="1027" alt="Screenshot 2026-10-15 113735" src="https://github.com/user-attachments/assets/276238b2-dea6-4732-94df-ed226279f8cf" />
 
 
 
