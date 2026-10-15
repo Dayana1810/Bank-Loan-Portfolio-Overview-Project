@@ -40,7 +40,7 @@ The main objective is to analyze banking and loan data, monitor transaction perf
 
 ## Tableaue Dashboard
 ## Bank Loan Portfolio Overview 
-<img width="1900" height="1030" alt="Screenshot 2026-10-15 113716" src="https://github.com/user-attachments/assets/f23decc7-c8ef-4e0d-9759-d1e8faa7340f" />
+<img width="1901" height="1025" alt="Screenshot 2026-10-15 113624" src="https://github.com/user-attachments/assets/74750e0a-db8c-498a-b6e9-b06e404a17dc" />
 
 ## Demographic Loan Portfolio Analysis
 <img width="1902" height="1031" alt="Screenshot 2026-10-15 113638" src="https://github.com/user-attachments/assets/bdd883f7-1fa0-4519-ae1d-7fcba80dba70" />
