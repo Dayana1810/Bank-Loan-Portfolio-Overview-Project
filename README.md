@@ -10,7 +10,7 @@ This dashboard analyzes loan distribution based on customer demographics, includ
 
 ## 3.Loan Risks & Delinquency Analytics Dashboard
 
-This dashboard focuses on loan defaults, delinquent customers, and loan risk assessment. It tracks default loan counts, default rates, delinquent clients, delinquent loan rates, and unverified loans. It also analyzes grade-wise loan distribution, loan status, loan maturity, and delinquency trends to help identify potential credit risks and support better lending decisions.
+This dashboard focuses on loan defaults, delinquent customers, and loan risk assessment. It tracks default loan counts, default rates, delinquent clients, delinquent loan rates, and unverified loans. It also analyzes grade-wise loan distribution, loan status, loan maturity, and delinquency trends to help identify potential credit risks and support better lending decisions. 
 
 ## 4. Bank Transaction & Cash Flow Overview Dashboard
 
