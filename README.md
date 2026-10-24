@@ -34,6 +34,9 @@ This banking analytics project consists of five interactive dashboards developed
 - Power BI: Interactive dashboards, KPI cards, and data visualization.
 - Tableau: Interactive charts, visual analytics, and dashboard development.
 
+### View Power BI Dashboard
+- <a href="https://app.powerbi.com/groups/me/reports/1767bff1-ec1f-4063-837c-f90d6d20c6aa/ad1b42f795269b06784b?experience=power-bi">Dashboard</a>
+  
 ## Project Objective
 
 The main objective is to analyze banking and loan data, monitor transaction performance, identify suspicious activities, assess loan risks, and understand customer borrowing patterns to support effective financial management and informed business decisions.
