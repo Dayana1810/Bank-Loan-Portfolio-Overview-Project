@@ -1,6 +1,6 @@
 # Bank Loan /Debit And Credit Bank Analysis Overview-Project
 
-## 1.Bank Loan Portfolio Overview Dashboard
+## 1.Bank Loan Portfolio Overview Dashboard 
 
 This dashboard provides an overall view of the bank's loan portfolio and financial performance. It tracks total loan amount funded, total applications, total amount received, and average interest rate. It also presents disbursement trends, product group-wise loans, branch-wise performance, and loan status distribution. These insights help evaluate lending performance, understand loan demand, and monitor the bank's portfolio.
 
