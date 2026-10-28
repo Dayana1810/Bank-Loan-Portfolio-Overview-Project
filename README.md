@@ -30,7 +30,7 @@ This banking analytics project consists of five interactive dashboards developed
 
 ## Tools and Technologies
 - Excel: Data cleaning, preparation, and initial analysis.
-- QL / MySQL: Data extraction, filtering, and querying.
+- SQL / MySQL: Data extraction, filtering, and querying.
 - Power BI: Interactive dashboards, KPI cards, and data visualization.
 - Tableau: Interactive charts, visual analytics, and dashboard development.
 
