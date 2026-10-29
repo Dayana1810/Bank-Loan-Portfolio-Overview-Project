@@ -1,4 +1,4 @@
-# Bank Loan /Debit And Credit Bank Analysis Overview-Project
+# Bank Loan /Debit And Credit Bank Analysis Overview Project
 
 ## 1.Bank Loan Portfolio Overview Dashboard
 
