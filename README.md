@@ -55,7 +55,7 @@ The main objective is to analyze banking and loan data, monitor transaction perf
 <img width="1900" height="1030" alt="Screenshot 2026-10-15 113716" src="https://github.com/user-attachments/assets/8d611959-f3e7-4989-a714-d31847a3643c" />
 
 ## Suspicious Transaction & Risk Monitoring
-<img width="1907" height="1027" alt="Screenshot 2026-10-15 113735" src="https://github.com/user-attachments/assets/276238b2-dea6-4732-94df-ed226279f8cf" />
+<img width="1907" height="1027" alt="Screenshot 2026-10-15 113735" src="https://github.com/user-attachments/assets/276238b2-dea6-4732-94df-ed226279f8cf" /> 
 
 
 
